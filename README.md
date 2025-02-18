@@ -8,11 +8,10 @@ A robust, scalable e-commerce backend API built with **Spring Boot**, featuring 
 - **Order Workflow**: Order lifecycle tracking, coupon system, audit logs.
 - **Analytics**: Sales reports, revenue by category, top-selling products.
 - **Security**: Rate limiting, encryption, RBAC.
-- **Advanced Integrations**: Redis caching, AWS S3 file storage, Kafka/RabbitMQ for event-driven tasks.
 
 ## Tech Stack 🛠️
 - **Backend**: Spring Boot, Spring Security, JPA/Hibernate.
-- **Database**: PostgreSQL with Flyway migrations.
+- **Database**: msql.
 - **Auth**: JWT, OAuth2 (Google/GitHub).
 - **Tools**: Swagger/OpenAPI,github.
 
